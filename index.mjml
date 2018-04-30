@@ -1,0 +1,57 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Playball" href="https://fonts.googleapis.com/css?family=Playball" />
+    <mj-style>
+      .top { color: #808080; } @media all and (max-width: 500px) { .link-nostyle { display: block; } span { display: none; } .top1 { position: absolute; display: none; } }
+    </mj-style>
+    <mj-style inline="inline">
+      .link-nostyle { color: inherit; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#efefef">
+    <!--View in Browser section-->
+    <mj-section padding="0px">
+      <mj-column css-class="top1">
+        <mj-text align="left"><span class="top">Welcome to Mestizo restaurant!</span></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right"><a href="#" class="top">View in browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Image section-->
+    <mj-hero mode="fluid-height" background-width="600px" padding="100px 70px" background-url="https://scontent.flim16-3.fna.fbcdn.net/v/t31.0-8/885200_158839490943272_958903223_o.jpg?_nc_cat=0&oh=4951c5ab59245ed1f1749f5d5ecd30de&oe=5B55EAB7" background-color="#2a3448"
+      vertical-align="center">
+      <mj-text align="center" padding="20px 0px" font-family="Playball,Helvetica Neue" font-size="38px" color="#fff" container-background-color="rgba(0,0,0,.3)">Welcome to our restaurant!</mj-text>
+    </mj-hero>
+    <!--Hello section-->
+    <mj-section background-color="#ffffff">
+      <mj-column width="500px">
+        <mj-text align="center" font-family="Helvetica Neue" font-size="25px">Hi Damel,
+        </mj-text>
+        <mj-divider border-color="#e6b800" width="100px"></mj-divider>
+        <mj-text align="center" font-size="18px" font-family="Helvetica Neue" line-height="22px">Thanks for registering on our site.<br/> Before we get started, we'll need to verify your email.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Confirm section-->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column>
+        <mj-button href="https://www.facebook.com/mestizorestaurant/" background-color="#e6b800" font-weight="bold">Confirm my email</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Logo section-->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+        <mj-image padding-top="20px" src="https://scontent.flim16-3.fna.fbcdn.net/v/t1.0-9/28870315_942853499208530_7370490270536079512_n.jpg?_nc_cat=0&oh=7c7a01c833f9525b332376f48ef2af89&oe=5B9D1C78" width="120px" border-radius="50%"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--Footer section-->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column>
+        <mj-text align="center" font-size="12px">You are receiving this email because you have visited our site or asked us about regular newslatte<br/>
+          <pre><a href="#" class="link-nostyle">Unsusbcribe</a> <span>|</span> <a href="#" class="link-nostyle">Update Preferences</a> <span>|</span> <a href="#" class="link-nostyle">Customer Support</a></pre>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
