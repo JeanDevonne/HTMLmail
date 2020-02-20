@@ -1,0 +1,36 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F2F2F2" color="#55575d" width="650px" font-family="Arial, sans-serif">
+    <mj-section css-class="primero" background-color="#242E45" background-repeat="repeat" padding="5px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="left" padding="5px 25px" src="http://ibosummit2020.com/static/images/logo.svg" width="158px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="segundo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="60px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="380px">
+        <mj-text align="center" color="#242E45" font-weight="bold" font-family="Arial, sans-serif" font-size="36px" line-height="28px" padding="0px 25px 20px 25px">Hola Alonso,</mj-text>
+        <mj-text align="center" color="#242E45" font-weight="bold" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="0px 25px 20px 25px">Hemos recibido tu mensaje con éxito</mj-text>
+        <mj-text align="center" color="#242E45" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px">Nos comunicaremos contigo a la brevedad. Mientras tanto, te invitamos a conocer nuestras redes sociales</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="tercero" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="35%"></mj-column>
+        <mj-column width="10%">
+          <mj-image href="https://www.facebook.com/IBOBlueberryOrg/" target="_blank" align="center" padding="5px" src="http://ibosummit2020.com/static/images/mail_icon_facebook.png" width="48px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image align="center" padding="5px" src="http://ibosummit2020.com/static/images/mail_icon_twitter.png" width="48px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image href="https://www.instagram.com/internationalblueberryorg/" target="_blank" align="center" padding="5px" src="http://ibosummit2020.com/static/images/mail_icon_instagram.png" width="48px"></mj-image>
+        </mj-column>
+        <mj-column width="35%"></mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section css-class="cuarto" background-color="#242E45" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#777D8B" font-family="Arial, sans-serif" font-size="14px" line-height="22px" padding="10px 25px">Correo automático. Por favor, no respondas a este mensaje <br> IBO SUMMIT | Todos los derechos reservados <br> Powered by WHIZ</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

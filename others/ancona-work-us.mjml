@@ -1,0 +1,58 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F2F2F2" color="#55575d" width="650px" font-family="Arial, sans-serif">
+
+    <mj-section css-class="espacio" background-color="#F2F2F2" background-repeat="repeat" padding="20px" text-align="center">
+    </mj-section>
+
+    <mj-section css-class="primero" background-color="#FFFFFF" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="left" padding="5px 25px" src="http://ancona.whiz.pe/img/mail_logo.png" width="158px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#fff" padding-top="30px">
+      <mj-group>
+        <mj-column width="35%"></mj-column>
+        <mj-column width="30%">
+          <mj-image align="center" padding="5px" src="http://ancona.whiz.pe/img/mail_news.png" width="150px"></mj-image>
+        </mj-column>
+        <mj-column width="35%"></mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section css-class="tercero" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="40px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-text align="center" color="#2F3841" font-weight="bold" font-family="Arial, sans-serif" font-size="36px" line-height="28px" padding="0px 0px 30px 0px">Hola José,</mj-text>
+        <mj-text align="center" color="#2F3841" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 40px 0px 40px">Tu currículum se ha enviado con éxito! Gracias por tu interés en Ancona</mj-text>
+        <mj-text align="center" color="#2F3841" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="10px 0px 30px 0px">Nos comunicaremos contigo a la brevedad.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="cuarto" background-color="#323232" padding-top="30px">
+      <mj-group>
+        <mj-column width="38%"></mj-column>
+        <mj-column width="8%">
+          <mj-image href="https://www.facebook.com/anconatechnologies/" target="_blank" align="center" padding="4px" src="http://ancona.whiz.pe/img/mail_social_fb.png" width="34px"></mj-image>
+        </mj-column>
+        <mj-column width="8%">
+          <mj-image href="#" align="center" padding="4px" src="http://ancona.whiz.pe/img/mail_social_tw.png" width="34px"></mj-image>
+        </mj-column>
+        <mj-column width="8%">
+          <mj-image href="https://www.linkedin.com/company/inversionesancona" target="_blank" align="center" padding="4px" src="http://ancona.whiz.pe/img/mail_social_ig.png" width="34px"></mj-image>
+        </mj-column>
+        <mj-column width="38%"></mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section css-class="quinto" background-color="#323232" background-repeat="repeat" padding="0px 0px 40px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Correo automático. Por favor, no respondas a este mensaje</mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="25px 25px 5px">Ancona | Todos los derechos reservados</mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Powered by WHIZ</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="espacio" background-color="#F2F2F2" background-repeat="repeat" padding="20px" text-align="center">
+    </mj-section>
+  </mj-body>
+</mjml>

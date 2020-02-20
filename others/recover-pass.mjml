@@ -1,0 +1,38 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F2F2F2" color="#55575d" width="650px" font-family="Arial, sans-serif">
+    <mj-section css-class="primero" background-color="#242E45" background-repeat="repeat" padding="5px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="left" padding="5px 25px" src="https://ibosummit2020.com/static/images/logo_ibo.png" width="158px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="60px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="20px" line-height="28px" padding="0px 0px 30px 0px"><b>Hola Mario RD</b>,</mj-text>
+        <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="0px">Recibiste este correo pues solicitaste recuperar tu contraseña en nuestra aseguradora. Para continuar, haz clic en el siguiente botón:</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#ffffff" padding="0px 0px 0px 0px">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-button href="https://ibosummit2020.com/admin/change" font-family="Helvetica" background-color="#242D44" color="white" align="left" padding="0px">
+          Recuperar contraseña
+         </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="40px 0px 60px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px">Recuerda que por seguridad este enlace <b>solo durará 48 horas</b>. Si no fuiste tú, ignora este mensaje.</mj-text>
+        <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="10px 0px 0px 0px"><b>Gracias.</b></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="sexto" background-color="#242E45" background-repeat="repeat" padding="30px 0px 30px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px"> IBO SUMMIT - Todos los derechos reservados 2020</mj-text>
+        <mj-text align="center" color="#415176" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px"> Por favor, no respondas este mensaje </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

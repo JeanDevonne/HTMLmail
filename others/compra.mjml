@@ -1,0 +1,126 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F2F2F2" color="#55575d" width="650px" font-family="Arial, sans-serif">
+    <mj-section css-class="primero" background-color="#242E45" background-repeat="repeat" padding="5px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="left" padding="5px 25px" src="https://ibosummit2020.com/static/images/logo_ibo.png" width="158px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="segundo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="40px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="20px" line-height="28px" padding="0px 0px 30px 0px">Estimado Juan Rios Duboi,</mj-text>
+        <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="0px">Muchas gracias por su registro al IBO SUMMIT 2020, a continuación le mostramos el detalle de su compra:</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="tercero" background-color="#ffffff">
+      <mj-column width="500px">
+        <mj-table>
+          <tr style="border-bottom:1px solid #ecedee;background-color: #fff;text-align:left;padding:0px 0;color: black; font-size: 16px">
+            <th style="padding: 8px; text-align: left">N° DE COMPRA</th>
+            <th style="padding: 8px; text-align: right">000001</th>
+          </tr>
+          <tr style="background-color: #fff;text-align:left;padding:0px 0;color: black; font-size: 14px">
+            <td style="padding: 8px; text-align: left">FECHA DE COMPRA</td>
+            <td style="padding: 8px; color: #243646; font-weight: bold; text-align: right"></td>
+          </tr>
+          <tr style="background-color: #fff;text-align:left;padding:0px 0;color: black; font-size: 14px">
+            <td style="padding: 8px; text-align: left">10 DE ENERO DEL 2020</td>
+            <td style="padding: 8px; text-align: right">10:00 AM</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="cuarto" background-color="#ffffff">
+      <mj-column width="500px">
+        <mj-table>
+          <tr style="border-bottom:1px solid #ecedee;background-color: #2E3A56;text-align:left;padding:0px 0;color: white; font-size: 12px">
+            <th style="padding: 6px; text-align: center">Entradas</th>
+            <th style="padding: 6px; text-align: center">Tipo de moneda</th>
+            <th style="padding: 6px; text-align: center">Plan</th>
+            <th style="padding: 6px; text-align: center">Total</th>
+          </tr>
+          <tr style="background-color: #F3F3F3; font-size: 14px; text-align: center">
+            <td style="padding: 6px; color: #8D969E">3</td>
+            <td style="padding: 6px; color: #8D969E">USD</td>
+            <td style="padding: 6px; color: #8D969E">$300</td>
+            <td style="padding: 6px; color: #243646; font-weight: bold">$900</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="quinto" background-color="#ffffff">
+      <mj-column width="500px">
+        <mj-table>
+          <tr style="border-bottom:1px solid #ecedee;background-color: #2E3A56;text-align:left;padding:0px 0;color: white; font-size: 12px">
+            <th style="padding: 10px; text-align: center">Descripción de el/los productos(s) :</th>
+          </tr>
+          <tr style="background-color: #F3F3F3; font-size: 12px">
+            <td style="padding: 20px; text-align: center">Registro IBO SUMMIT 2020</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="sexto" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="4px 0px 4px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px">
+          <mj-button href="https://ibosummit2020.com/terms" align="center" color="#969CAA" background-color="#fff" text-decoration="underline" font-weight="normal" font-family="Arial, sans-serif" font-size="14px" line-height="24px" padding="0px 0px 0px 0px">
+            Términos y condiciones
+          </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section css-class="septimo" background-color="#fff">
+      <mj-column width="500px">
+        <mj-table>
+          <tr style="background-color: #F3F3F3">
+            <td style="padding: 20px">
+              <img align="left" padding="5px 25px" src="https://ibosummit2020.com/static/images/printer.png" width="40px"></img>
+            </td>
+            <td style="padding: 20px">
+              <mj-text align="justify" font-size="14px !important" color="#000" font-family="helvetica">Estimado cliente, usted deberá imprimir la información de este correo electrónico, que será necesario para su ingreso el día del evento.</mj-text>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section css-class="octavo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top" border-top="1px solid #ccc">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-text align="left" color="#969CAA" font-weight="normal" font-family="Arial, sans-serif" font-size="12px" line-height="18px" padding="0px 0px 0px 0px">Por este pago se emitirá una Boleta de venta a nombre de la persona registrada, si desea que se emita una Factura a nombre de una empresa o persona juridica por favor envie los siguientes datos a esta dirección de email: congresoibosummit@grupo360.com.pe</mj-text>
+        <mj-text align="left" color="#969CAA" font-weight="normal" font-family="Arial, sans-serif" font-size="12px" line-height="18px" padding="0px 0px 0px 0px">RAZÓN SOCIAL, DIRECCIÓN FISCAL, N° DE REGISTRO TRIBUTARIO.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="noveno" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px">
+        <mj-text align="center" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="18px" line-height="24px" padding="0px 0px 0px 0px">Cordialmente,</mj-text>
+        <mj-text align="center" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="20px" line-height="24px" padding="0px 0px 0px 0px">IBO SUMMIT 2020</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section css-class="decimo" background-color="#242E45" padding-top="30px">
+      <mj-group>
+        <mj-column width="35%"></mj-column>
+        <mj-column width="10%">
+          <mj-image href="https://www.facebook.com/IBOBlueberryOrg/" target="_blank" align="center" padding="5px" src="https://ibosummit2020.com/static/images/mail_fb.png" width="34px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image align="center" padding="5px" src="https://ibosummit2020.com/static/images/mail_tw.png" width="34px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image href="https://www.instagram.com/internationalblueberryorg/" target="_blank" align="center" padding="5px" src="https://ibosummit2020.com/static/images/mail_in.png" width="34px"></mj-image>
+        </mj-column>
+        <mj-column width="35%"></mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section css-class="onceavo" background-color="#242E45" background-repeat="repeat" padding="0px 0px 40px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px"> IBO SUMMIT - Todos los derechos reservados 2020</mj-text>
+        <mj-text align="center" color="#415176" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px"> Por favor, no respondas este mensaje </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
