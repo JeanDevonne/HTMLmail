@@ -1,12 +1,17 @@
 <mjml version="3.3.3">
   <mj-body background-color="#F0F0F0" color="#55575d" width="640px" font-family="Arial, sans-serif">
-    <mj-section css-class="space" background-color="#F0F0F0" background-repeat="repeat" padding="15px" text-align="center" vertical-align="top">
+    
+    <mj-section css-class="space" background-color="#F0F0F0" background-repeat="repeat" padding="50px" text-align="center" vertical-align="top">
     </mj-section>
-    <mj-section css-class="primero" background-color="#F17500" background-repeat="repeat" padding="5px 0" text-align="center" vertical-align="top">
-      <mj-column>
-        <mj-image align="left" padding="10px 25px" src="https://franco.com.pe/static/images/logo.png" width="120px"></mj-image>
-      </mj-column>
-    </mj-section>
+
+    <mj-wrapper css-class="primero" background-url="https://franco.com.pe/static/images/gradient.png" padding="0">
+      <mj-section padding="10px" text-align="center" vertical-align="top">
+        <mj-column>
+          <mj-image align="left" padding="10px 25px" src="https://franco.com.pe/static/images/logo.png" width="120px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
     <mj-section css-class="segundo" background-color="#F6F6F6" background-repeat="repeat" background-size="auto" padding="50px 0px 40px 0px" text-align="center" vertical-align="top">
       <mj-column width="580px" padding="0px 0px">
         <mj-text align="left" color="#2F3841" font-weight="normal" font-family="Arial, sans-serif" font-size="15px" line-height="28px" padding="10px 0px 20px">Confirmación</mj-text>
@@ -17,11 +22,13 @@
         <mj-text align="left" color="#2F3841" font-weight="normal" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="0px 0px 0px">Franco.</mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section css-class="tercero" background-color="#fff" background-repeat="repeat" padding="30px 0px 30px" text-align="center" vertical-align="top">
       <mj-column>
         <mj-text align="center" color="#000" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Franco - Todos los derechos reservados 2019</mj-text>
         <mj-text align="center" color="rgba(0,0,0,0.16)" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Por favor, no respondas este mensaje.</mj-text>
       </mj-column>
     </mj-section>
+
   </mj-body>
 </mjml>
