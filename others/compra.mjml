@@ -1,10 +1,12 @@
 <mjml version="3.3.3">
   <mj-body background-color="#F2F2F2" color="#55575d" width="650px" font-family="Arial, sans-serif">
+
     <mj-section css-class="primero" background-color="#242E45" background-repeat="repeat" padding="5px 0" text-align="center" vertical-align="top">
       <mj-column>
         <mj-image align="left" padding="5px 25px" src="https://ibosummit2020.com/static/images/logo_ibo.png" width="158px"></mj-image>
       </mj-column>
     </mj-section>
+
     <mj-section css-class="segundo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="40px 0px 20px 0px" text-align="center" vertical-align="top">
       <mj-column width="500px" padding="0px 25px">
         <mj-text align="left" color="#242E45" font-weight="normal" font-family="Arial, sans-serif" font-size="20px" line-height="28px" padding="0px 0px 30px 0px">Estimado Juan Rios Duboi,</mj-text>
@@ -65,9 +67,10 @@
 
     <mj-section css-class="sexto" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="4px 0px 4px 0px" text-align="center" vertical-align="top">
       <mj-column width="500px">
-          <mj-button href="https://ibosummit2020.com/terms" align="center" color="#969CAA" background-color="#fff" text-decoration="underline" font-weight="normal" font-family="Arial, sans-serif" font-size="14px" line-height="24px" padding="0px 0px 0px 0px">
-            Términos y condiciones
-          </mj-button>
+        <mj-text align="left" color="#969CAA" font-weight="normal" font-family="Arial, sans-serif" font-size="10px" line-height="17px" padding="0px 40px 10px 40px">Para la categoría “ESTUDIANTES” el precio de la entrada incluye acceso a las conferencias y exposición comercial, materiales y coffe break. <br> Para el resto de las entradas el precio incluye acceso a las conferencias y exposición comercial, materiales, coffe breaks, almuerzos, cocktail de bienvenida y cena de gala. <br> Las visitas a los campos no están incluidas en el precio de ninguna entrada y deberán comprarse adicionalmente en este mismo sitio.</mj-text>
+        <mj-button href="https://ibosummit2020.com/terms" align="center" color="#969CAA" background-color="#fff" text-decoration="underline" font-weight="normal" font-family="Arial, sans-serif" font-size="14px" line-height="24px" padding="0px 0px 0px 0px">
+          Términos y condiciones
+        </mj-button>
       </mj-column>
     </mj-section>
     
@@ -87,7 +90,7 @@
 
     </mj-section>
 
-    <mj-section css-class="octavo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top" border-top="1px solid #ccc">
+    <mj-section css-class="octavo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top" border-top="1px solid #97979726">
       <mj-column width="500px" padding="0px 25px">
         <mj-text align="left" color="#969CAA" font-weight="normal" font-family="Arial, sans-serif" font-size="12px" line-height="18px" padding="0px 0px 0px 0px">Por este pago se emitirá una Boleta de venta a nombre de la persona registrada, si desea que se emita una Factura a nombre de una empresa o persona juridica por favor envie los siguientes datos a esta dirección de email: congresoibosummit@grupo360.com.pe</mj-text>
         <mj-text align="left" color="#969CAA" font-weight="normal" font-family="Arial, sans-serif" font-size="12px" line-height="18px" padding="0px 0px 0px 0px">RAZÓN SOCIAL, DIRECCIÓN FISCAL, N° DE REGISTRO TRIBUTARIO.</mj-text>
@@ -116,11 +119,13 @@
         <mj-column width="35%"></mj-column>
       </mj-group>
     </mj-section>
+
     <mj-section css-class="onceavo" background-color="#242E45" background-repeat="repeat" padding="0px 0px 40px" text-align="center" vertical-align="top">
       <mj-column>
         <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px"> IBO SUMMIT - Todos los derechos reservados 2020</mj-text>
         <mj-text align="center" color="#415176" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px"> Por favor, no respondas este mensaje </mj-text>
       </mj-column>
     </mj-section>
+
   </mj-body>
 </mjml>
