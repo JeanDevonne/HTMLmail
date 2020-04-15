@@ -1,0 +1,49 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F2F2F2" color="#55575d" width="600px" font-family="Arial, sans-serif">
+    <mj-section css-class="dash" padding="4px" text-align="center" vertical-align="top" background-url="assets/dash.png" background-size="contain" background-repeat="no-repeat">
+    </mj-section>
+    <mj-section css-class="logo" background-color="#fff" padding="30px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="left" padding="5px 25px" src="assets/logo_pods.png" width="158px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="ribbon" background-color="#fff" padding="0px" text-align="center" vertical-align="top" background-url="assets/hero_background.png" background-size="cover" background-repeat="no-repeat">
+      <mj-column>
+        <mj-text align="left" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" line-height="20px" padding="40px 50px">¡Muchas gracias por tu postulación!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="body" background-color="#ffffff" padding="0px" text-align="left" vertical-align="top" background-url="assets/ropes.png" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="420px">
+        <mj-text align="left" color="#008FC9" font-weight="bold" font-family="Arial, sans-serif" font-size="16px" line-height="20px" padding="50px 25px 30px 50px">¿Qué sigue?</mj-text>
+        <mj-text align="left" color="#545454" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="20px" padding="0px 25px 20px 50px">Iniciaremos el proceso de evaluación de nuestro Comité Técnico durante los meses de mayo y junio. Posteriormente, comunicaremos a las iniciativas finalistas a través de un correo electrónico. </mj-text>
+        <mj-text align="left" color="#545454" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="20px" padding="0px 25px 20px 50px">La recta final consiste en pasar por la evaluación del Jurado y el anuncio oficial de los ganadores será en el evento Perú Sostenible donde tendremos un cóctel de premiación. </mj-text>
+        <mj-text align="left" color="#545454" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="20px" padding="0px 25px 20px 50px">Compartiremos mayor detalle en las siguientes semanas.</mj-text>
+        <mj-text align="left" color="#545454" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="20px" padding="0px 25px 20px 50px">Para cualquier duda o consulta, podrán hacerlo al correo: <span style="color: #000">contenidos@peru2021.org</span></mj-text>
+        <mj-text align="left" color="#545454" font-weight="bold" font-family="Arial, sans-serif" font-size="14px" line-height="20px" padding="0px 25px 90px 50px">¡Mucha suerte!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="social-links" background-color="#ffffff" border-top="1px solid #979797">
+      <mj-group>
+        <mj-column width="25%"></mj-column>
+        <mj-column width="10%">
+          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_link.png" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_li.png" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_ig.png" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_fb.png" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_tw.png" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="25%"></mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section css-class="dash" padding="4px" text-align="center" vertical-align="top" background-url="assets/dash.png" background-size="contain" background-repeat="no-repeat">
+    </mj-section>
+  </mj-body>
+</mjml>
