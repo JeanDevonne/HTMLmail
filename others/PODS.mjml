@@ -24,23 +24,20 @@
     </mj-section>
     <mj-section css-class="social-links" background-color="#ffffff" border-top="1px solid #979797">
       <mj-group>
-        <mj-column width="25%"></mj-column>
+        <mj-column width="30%"></mj-column>
         <mj-column width="10%">
-          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_link.png" width="30px"></mj-image>
+          <mj-image href="http://www.pods.pe/" target="_blank" align="center" padding="5px" src="assets/social_link.png" width="30px"></mj-image>
         </mj-column>
         <mj-column width="10%">
-          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_li.png" width="30px"></mj-image>
+          <mj-image href="https://www.linkedin.com/company/peru2021/" target="_blank" align="center" padding="5px" src="assets/social_li.png" width="30px"></mj-image>
         </mj-column>
         <mj-column width="10%">
-          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_ig.png" width="30px"></mj-image>
+          <mj-image href="https://www.instagram.com/peru_2021/" target="_blank" align="center" padding="5px" src="assets/social_ig.png" width="30px"></mj-image>
         </mj-column>
         <mj-column width="10%">
-          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_fb.png" width="30px"></mj-image>
+          <mj-image href="https://www.facebook.com/Peru2021.org/" target="_blank" align="center" padding="5px" src="assets/social_fb.png" width="30px"></mj-image>
         </mj-column>
-        <mj-column width="10%">
-          <mj-image href="#" target="_blank" align="center" padding="5px" src="assets/social_tw.png" width="30px"></mj-image>
-        </mj-column>
-        <mj-column width="25%"></mj-column>
+        <mj-column width="30%"></mj-column>
       </mj-group>
     </mj-section>
     <mj-section css-class="dash" padding="4px" text-align="center" vertical-align="top" background-url="assets/dash.png" background-size="contain" background-repeat="no-repeat">
