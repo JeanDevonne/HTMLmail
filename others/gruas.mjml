@@ -1,0 +1,44 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#FFF" width="600px">
+
+    <mj-section css-class="primero" background-color="#F1F1F1" padding="20px 0 0 0" background-url="assets/mail_gruas/mail_back.png" background-repeat="no-repeat" background-size="contain" text-align="center">
+
+      <mj-column width="580px">
+        <mj-image align="left" padding="0px 60px 20px" src="assets/mail_gruas/mail_logo.png" width="158px"></mj-image>
+      </mj-column>
+
+      <mj-column width="580px">
+        <mj-table>
+          <tr style="border-bottom:1px solid #fff;background-color: #fff;text-align:left;padding:0px 0;color: black; font-size: 34px" css-class="radius">
+            <th style="padding: 50px 60px 20px; text-align: left; line-height: 50px">LOREM IPSUM DOLOR SIT AMET</th>
+          </tr>
+          <tr style="background-color: #FFF; font-size: 14px">
+            <td style="padding: 10px 60px 20px; text-align: left; color: #848484">
+              <mj-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Duis venenatis in nisi eget finibus.</b> Cras mattis laoreet metus, eu rutrum sem aliquent sed. Aliquam tempus faucibus nisi non rutrum.</mj-text><br>
+            </td>
+          </tr>
+          <tr style="background-color: #FFF; font-size: 14px; border-bottom: 2px solid #009BFF">
+            <td style="padding: 0px 60px 35px; text-align: left; color: #848484">
+              <mj-text>Atte.</mj-text><br>
+              <mj-text>Lorem Ipsum.</mj-text>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#F1F1F1" padding="0 0 20px 0">
+      <mj-column width="580px">
+        <mj-table>
+          <tr>
+            <td style="padding: 0px 60px; text-align: left">
+              <mj-text align="left" color="#848484" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">Jr. Arias Aragues 1259, Cercado de Lima</mj-text><br>
+              <mj-text align="left" color="#848484" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">Lima, Perú</mj-text><br>
+              <mj-text align="left" color="#848484" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">+51 954 192 396</mj-text>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
