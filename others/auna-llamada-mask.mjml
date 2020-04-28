@@ -1,0 +1,45 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4" color="#55575d" width="650px" font-family="Arial, sans-serif">
+
+    <mj-section css-class="espacio" background-color="#F2F2F2" background-repeat="repeat" padding="20px" text-align="center">
+    </mj-section>
+
+    <mj-section css-class="primero" background-color="#FFFFFF" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="left" padding="5px 25px" src="https://pacientedoctor.whiz.pe/static/images/mail/logo.png" width="60px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#f9f9f9" padding-top="30px">
+      <mj-group>
+        <mj-column width="35%"></mj-column>
+        <mj-column width="30%">
+          <mj-image align="center" padding="5px" src="https://pacientedoctor.whiz.pe/static/images/mail/tier.png" width="150px"></mj-image>
+        </mj-column>
+        <mj-column width="35%"></mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section css-class="tercero" background-color="#f9f9f9" background-repeat="repeat" background-size="auto" padding="40px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 25px">
+        <mj-text align="left" color="#818181" font-weight="bold" font-family="Arial, sans-serif" font-size="30px" line-height="28px" padding="0px 0px 30px 0px">Estimado "DR"</mj-text>
+        <mj-text align="left" color="#818181" font-weight="400" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="10px 0px 10px 0px">El presente correo es para indicarle que ya se encuentra activa la <b>llamada enmascarada.</b></mj-text>
+        <mj-text align="left" color="#818181" font-weight="400" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="10px 0px 10px 0px">Usted podrá hacer uso de ella para comunicarse con sus pacientes una vez haya decidido atender una consulta en su panel de Doctor</mj-text>
+        <mj-text align="left" color="#818181" font-weight="400" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="10px 0px 10px 0px">La llamada se activa cuando se accione el botón “Llamar por teléfono”, automáticamente el sistema llamará al paciente para luego ponerlo en contacto con usted.</mj-text>
+        <mj-text align="left" color="#818181" font-weight="400" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="10px 0px 10px 0px">Ahora es cuando nos necesitan más las personas, comienza a ayudar ahora mismo.</mj-text>
+        <mj-text align="left" color="#818181" font-weight="bold" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="50px 0px 50px 0px">EL EQUIPO TEC DOC.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="cuarto" background-color="#5C3990" background-repeat="repeat" padding="40px 0px 40px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Correo automático. Por favor, no respondas a este mensaje</mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="25px 25px 5px">Auna | Todos los derechos reservados</mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Powered by WHIZ</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="espacio" background-color="#F2F2F2" background-repeat="repeat" padding="20px" text-align="center">
+    </mj-section>
+  </mj-body>
+</mjml>
