@@ -13,15 +13,13 @@
             <th style="padding: 50px 60px 20px; text-align: left; line-height: 50px">LOREM IPSUM DOLOR SIT AMET</th>
           </tr>
           <tr style="background-color: #FFF; font-size: 14px">
-            <td style="padding: 10px 60px 20px; text-align: left; color: #848484">
-              <mj-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Duis venenatis in nisi eget finibus.</b> Cras mattis laoreet metus, eu rutrum sem aliquent sed. Aliquam tempus faucibus nisi non rutrum.</mj-text><br>
-            </td>
+            <td style="padding: 10px 60px 20px; text-align: left; color: #848484">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Duis venenatis in nisi eget finibus.</b> Cras mattis laoreet metus, eu rutrum sem aliquent sed. Aliquam tempus faucibus nisi non rutrum.</td>
+          </tr>
+          <tr style="background-color: #FFF; font-size: 14px;">
+            <td style="padding: 0px 60px 0px; text-align: left; color: #848484">Atte</td>
           </tr>
           <tr style="background-color: #FFF; font-size: 14px; border-bottom: 2px solid #009BFF">
-            <td style="padding: 0px 60px 35px; text-align: left; color: #848484">
-              <mj-text>Atte.</mj-text><br>
-              <mj-text>Lorem Ipsum.</mj-text>
-            </td>
+            <td style="padding: 0px 60px 35px; text-align: left; color: #848484">Lorem Ipsum.</td>
           </tr>
         </mj-table>
       </mj-column>
@@ -31,11 +29,13 @@
       <mj-column width="580px">
         <mj-table>
           <tr>
-            <td style="padding: 0px 60px; text-align: left">
-              <mj-text align="left" color="#848484" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">Jr. Arias Aragues 1259, Cercado de Lima</mj-text><br>
-              <mj-text align="left" color="#848484" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">Lima, Perú</mj-text><br>
-              <mj-text align="left" color="#848484" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">+51 954 192 396</mj-text>
-            </td>
+            <td style="padding: 0px 60px; text-align: left">Jr. Arias Aragues 1259, Cercado de Lima</td>
+          </tr>
+          <tr>
+            <td style="padding: 0px 60px; text-align: left">Lima, Perú</td>
+          </tr>
+          <tr>
+            <td style="padding: 0px 60px; text-align: left">+51 954 192 396</td>
           </tr>
         </mj-table>
       </mj-column>
