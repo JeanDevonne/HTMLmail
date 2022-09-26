@@ -1,0 +1,62 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F2F2F2" color="#55575d" width="650px" font-family="Arial, sans-serif">
+    <mj-section css-class="primero" background-color="#000" background-repeat="repeat" padding="16px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="5px 25px" src="./assets/mail_er/ER-logo_for-email.svg" width="120px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="60px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 0px">
+        <mj-text align="center" color="#000" font-weight="bold" font-family="Arial, sans-serif" font-size="24px" line-height="24px" padding="0px 0px 24px 0px">¡GRACIAS POR TU COMPRA!</mj-text>
+        <mj-text align="left" color="#000" font-weight="normal" font-family="Arial, sans-serif" font-size="18px" line-height="24px" padding="0px 0px 20px 0px">Tienes 15% de dscto en tu próximo pedido. Recuerda que este beneficio es válido solo durante las 72 horas posteriores a la entrega de este mensaje.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="tercero" background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="0px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="250px" padding="20px 20px" border="1px dashed #dddddd">
+        <mj-text align="center" color="#000" font-weight="normal" font-family="Arial, sans-serif" font-size="16px" line-height="24px" padding="0px 0px 10px 0px">Código de descuento:</mj-text>
+        <mj-text align="center" color="#d5d5d5" font-weight="bold" font-family="Arial, sans-serif" font-size="24px" line-height="24px" padding="0px 0px 0px 0px">01ARW10-L19</mj-text>
+      </mj-column>
+      <mj-column width="250px" padding="20px 20px">
+        <mj-button href="#" font-family="Helvetica" background-color="#FF242E" color="white" align="center" inner-padding="18px 38px" padding="0px" border-radius="0px" text-transform="uppercase">
+          USALO AQUI
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="40px" background-color="#fff">
+      <mj-section css-class="banner" background-color="#fff" text-align="center" vertical-align="top" background-url="assets/mail_er/banner.png" background-size="cover" background-repeat="no-repeat">
+        <mj-column width="250px">
+        </mj-column>
+        <mj-column width="250px" padding="50px 0px">
+          <mj-text align="center" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="22px" line-height="20px" padding="20px 0px">#WhatYouER</mj-text>
+          <mj-text align="center" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="18px" line-height="20px" padding="10px 0px">TEMPORADA VERANO</mj-text>
+          <mj-text align="center" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" line-height="20px" padding="10px 0px">70 % ON</mj-text>
+          <mj-text align="center" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" line-height="20px" padding="10px 0px">DESCUENTO</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section css-class="cuarto" background-color="#000" padding="30px 0px 0px 0px">
+      <mj-group>
+        <mj-column width="42%"></mj-column>
+        <mj-column width="8%">
+          <mj-image href="#" target="_blank" align="center" padding="4px" src="./assets/mail_er/fb-icon.svg" width="26px"></mj-image>
+        </mj-column>
+        <mj-column width="8%">
+          <mj-image href="#" align="center" padding="4px" src="./assets/mail_er/ig-icon.svg" width="26px"></mj-image>
+        </mj-column>
+        <mj-column width="42%"></mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section css-class="quinto" background-color="#000" background-repeat="repeat" padding="20px 0px 30px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="0px 25px 5px">EFFORT RESPECT - Todos los derechos reservados 2020</mj-text>
+        <mj-text align="center" color="#A3A3A3" font-family="Arial, sans-serif" font-size="14px" line-height="15px" padding="5px 25px">Por favor, no respondas a este mensaje</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

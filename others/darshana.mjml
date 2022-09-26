@@ -1,0 +1,72 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#CCC" color="#55575d" width="600px" font-family="Arial, sans-serif">
+    <mj-section css-class="header" background-color="#FAFAFA" padding="0px" text-align="center" vertical-align="top" background-url="assets/mail_darshana/mail_hero.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-column padding="40px 50px">
+        <!-- <mj-image align="center" padding="5px 25px" src="assets/mail_alianza/al_negativo.png" width="158px"></mj-image> -->
+        <mj-text align="left" color="#00A6CC" font-weight="bold" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding="0px 0px 28px 0px">darshana</mj-text>
+        <mj-text align="left" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" line-height="22px" padding="0px 0px 16px 0px">Hola Chris,</mj-text>
+        <mj-text align="left" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" line-height="22px" padding="0px 0px 16px 0px">Bienvenido a un lugar lleno de</mj-text>
+        <mj-text align="left" color="#FFF" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" line-height="22px" padding="0px 0px 16px 0px">oportuniades</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="20px 40px 20px" background-color="#FFF">
+
+      <mj-section css-class="primero" padding="40px 0px 0px 0px">
+        <mj-column>
+          <mj-text align="left" color="#555555" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 20px 0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam luctus velit rutrum commodo suscipit.<b> Mauris interdum, enim in venenatis dapibus, leo nisl laoreet arcu, ut dictum diam purus non eros</b>. Pellentesque eu ligula non magna dignissim ornare id sed nisl.</mj-text>
+          <mj-text align="left" color="#555555" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 20px 0px" font-weight="bold">¡Curabitur ornare varius dictum!</mj-text>
+          <mj-text align="left" color="#555555" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 20px 0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam luctus velit rutrum commodo suscipit.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="banner-1" background-url="assets/mail_darshana/mail_man.jpg" background-size="cover" background-repeat="no-repeat" padding="80px 40px">
+        <mj-column>
+          <mj-text align="left" color="#006177" font-family="Arial, sans-serif" font-size="16px" line-height="25px" padding="0px 0px 25px 0px"><b>¿Buscas oportunidades <br> laborales</b> a tu medida?</mj-text>
+          <mj-text padding="0px">
+            <a href="#">
+              <img src="assets/mail_darshana/btn_busca_talentos.png">
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="texto-1" padding="30px 0px 0px 0px">
+        <mj-column>
+          <mj-text align="left" color="#555555" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 20px 0px" font-weight="bold">¡Curabitur ornare varius dictum!</mj-text>
+          <mj-text align="left" color="#555555" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 20px 0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam luctus velit rutrum commodo suscipit.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="banner-2" background-url="assets/mail_darshana/mail_girl.jpg" background-size="cover" background-repeat="no-repeat" padding="80px 40px">
+        <mj-column>
+          <mj-text align="left" color="#006177" font-family="Arial, sans-serif" font-size="16px" line-height="25px" padding="0px 0px 25px 0px"><b>¿Buscas oportunidades <br> laborales</b> a tu medida?</mj-text>
+          <mj-text padding="0px">
+            <a href="#">
+              <img src="assets/mail_darshana/btn_busca_proyectos.png">
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="texto-2" padding="30px 0px 0px 0px">
+        <mj-column>
+          <mj-text align="left" color="#555555" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 20px 0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam luctus velit rutrum commodo suscipit.<b> Mauris interdum, enim in venenatis dapibus, leo nisl laoreet arcu, ut dictum diam purus non eros.</b> Pellentesque eu ligula non magna dignissim ornare id sed nisl.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="cancelar-inscripcion" background-color="#FFF" padding-top="20px" padding-bottom="20px" border-top="1px solid #EFEFEF">
+        <mj-column>
+          <mj-text align="center" color="#5A5A5A" font-family="Arial, sans-serif" font-size="12px" line-height="22px" padding="0px 0px 0px 0px">Puede <a href="#">cancelar su inscripción</a> en cualquier momento.</mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+    <mj-section css-class="footer" background-color="#EFEFEF">
+      <mj-column>
+        <mj-text align="center" color="#ADADAD" font-family="Arial, sans-serif" font-size="12px" line-height="15px" padding="0px 25px">Darshana Copyright Derechos Reservados 2020</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

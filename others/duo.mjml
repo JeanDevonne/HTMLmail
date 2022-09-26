@@ -1,0 +1,36 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#FFF" color="#55575d" width="600px" font-family="Arial, sans-serif">
+    <mj-section css-class="header" background-color="#FFF" padding="0px">
+      <mj-column padding="0px 0px">
+        <mj-image align="center" padding="0px" src="assets/mail_duo/gracias-por-participar.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="primero" background-color="#FFF" background-repeat="repeat" background-size="auto" padding="40px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="500px" padding="0px 20px">
+        <mj-text align="left" color="#000" font-weight="bold" font-family="Arial, sans-serif" font-size="20px" line-height="28px" padding="0px 0px 20px 0px">Hola Emperatriz,</mj-text>
+        <mj-text align="left" color="#000" font-weight="bold" font-family="Arial, sans-serif" font-size="20px" line-height="28px" padding="0px 0px 20px 0px">Consectetur adipiscing elit. In eleifend, sem at convallis commodo, ante purus tempus.</mj-text>
+        <mj-text align="left" color="#E61B77" font-weight="bold" font-family="Arial, sans-serif" font-size="25px" padding="0px 0px 20px 0px">100 productos para 100 ganadores</mj-text>
+        <mj-text align="left" color="#5A5A5A" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">In ultrices ipsum eget urna posuere, ac hendrerit ipsum varius. Aliquam erat volutpat. Aenean molestie volutpat tortor, quis ornare dolor sollicitudin nec. Donec lobortis fringilla risus in lobortis. Ut gravida ut dui in efficitur. Maecenas id nulla eu nisi fringilla interdum vel et mauris.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="segundo" background-color="#FFF">
+      <mj-column width="500px" border-top="1px solid #EFEFEF" border-bottom="1px solid #EFEFEF" padding="30px 20px">
+        <mj-text align="left" color="#5A5A5A" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">Aliquam sodales magna sit amet neque facilisis, at bibendum tellus finibus. Integer non sollicitudin lectus, eget varius est.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="tercero" background-color="#FFF" padding-top="0px">
+      <mj-column width="500px" padding="0px 20px">
+        <mj-text align="center" color="#5A5A5A" font-family="Arial, sans-serif" font-size="16px" line-height="22px" padding="0px 0px 0px 0px">Puede <a href="#">cancelar su inscripción</a> en cualquier momento.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="footer" background-color="#EFEFEF">
+      <mj-column>
+        <mj-text align="center" color="#ADADAD" font-family="Arial, sans-serif" font-size="12px" line-height="15px" padding="0px 25px">DUO by Happie Anne Copyright Derechos Reservados 2020</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
